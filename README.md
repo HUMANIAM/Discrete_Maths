@@ -8,4 +8,5 @@ this specialization about my studying and training discrete math specialization 
 -  **Making Convincing Arguments**
 -  **How to find an example** : brute force, backtraking, optimal solution, simple puzzles
 -  **Recursion and Induction** : tower of hanio, binarysearch, induction by proof, contradiction
--  **Logic** :
+-  **Logic** : Examples, counterExamples, Logic, antimagic square, proof by contradiction
+-  **Invariant** : 
