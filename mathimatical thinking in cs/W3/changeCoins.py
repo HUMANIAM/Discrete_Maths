@@ -21,7 +21,6 @@ def change(amount):
 	if len(subpayment) : subpayment.append(5); return subpayment
 	else : 
 		subpayment = change(amount-7)
-
 		if len(subpayment) : subpayment.append(7); return subpayment
 
 	return []
