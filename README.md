@@ -3,18 +3,13 @@ this specialization about my studying and training discrete math specialization 
 
 ## **Language :** python
 
-##  Mathematical thinking in computer science
+## Mathematical thinking in computer science
 
 -  **Making Convincing Arguments**
--  **How to find an example** : <span style="color:blue">brute force</span>, backtraking, optimal solution, simple puzzles
+-  **How to find an example** : brute force, backtraking, optimal solution, simple puzzles
 -  **Recursion and Induction** : tower of hanio, binarysearch, induction by proof, contradiction
 -  **Logic** : Exs, counterExs,Logic,antimagic square,pigeonhole Principle,proof by contradiction
 -  **Invariant** : Double Counting, invariants, termination, even and odd numbers
 -  **project_15_puzzle** : permutations, cycle notation, 15-puzzle, A* serach
 <br /> <br />
 ## Combinatorics and Probability
-
-
-Roses are <span style="color:red; font-family:Georgia; font-size:2em;">red.</span>
-
-
