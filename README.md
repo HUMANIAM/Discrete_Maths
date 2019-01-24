@@ -3,7 +3,7 @@ this specialization about my studying and training discrete math specialization 
 
 ## **Language :** python
 
-## Mathematical thinking in computer science
+## <span style="color:blue"> Mathematical thinking in computer science </span>
 
 -  **Making Convincing Arguments**
 -  **How to find an example** : brute force, backtraking, optimal solution, simple puzzles
