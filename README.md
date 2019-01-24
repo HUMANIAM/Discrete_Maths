@@ -13,6 +13,8 @@ this specialization about my studying and training discrete math specialization 
 -  **project_15_puzzle** : permutations, cycle notation, 15-puzzle, A* serach
 <br /> <br />
 ## Combinatorics and Probability
+
+
 Roses are <span style="color:red; font-family:Georgia; font-size:2em;">red.</span>
 
 
