@@ -9,7 +9,7 @@ def factorial(n) :
 	return n * factorial(n-1)
 
 def main():
-	n = int(input())
+	n = int(input("Enter the number :"))
 	print(factorial(n))
 
 if __name__ == '__main__':
