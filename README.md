@@ -13,4 +13,5 @@ this specialization about my studying and training discrete math specialization 
 -  **project_15_puzzle** : permutations, cycle notation, 15-puzzle, A* serach
 <br /> <br />
 ## Combinatorics and Probability
-- **Basic Counting** : rule of sum, rule of product, tubles, comination, permutation, Basic counting principle
+- **Basic Counting** : rule of sum, rule of product, tuples, comination, permutation, Basic counting principle
+- **Binomial Coefficients** : combinatorics, tuples, permutation, pascal's triangle, counting
