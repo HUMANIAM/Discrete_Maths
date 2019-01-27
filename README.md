@@ -15,4 +15,4 @@ this specialization about my studying and training discrete math specialization 
 ## Combinatorics and Probability
 - **Basic Counting** : rule of sum, rule of product, tuples, comination, permutation, Basic counting principle
 - **Binomial Coefficients** : combinatorics, tuples, permutation, pascal's triangle, counting
-- **ِِِAdvanced Counting** : combinatorics with repetition, permutation with indistinguishable objects
+- **ِِِAdvanced Counting** : combinatorics with repetition, permutation with indistinguishable objects.
