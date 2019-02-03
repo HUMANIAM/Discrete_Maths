@@ -18,4 +18,10 @@ this specialization about my studying and training discrete math specialization 
 - **ِِِAdvanced Counting** : combinatorics with repetition, permutation with indistinguishable objects.
 - **Probability** : bean-machine, probability calculation, tree diagram, conditional probability, Monty Hall paradox
 - **Random Variable and expected value** : random variable, expected value of an expriment, linearity of expectation, Markouv inequality
-- **Project_Dice_game** : dice game, probability is tricky and sometimes counter-intuitive
+- **Dice_game_Project** : dice game, probability is tricky and sometimes counter-intuitive
+<br /> <br />
+## Introduction To Graph Theory : 
+- **What is a Graph?** : directed graphs, undirected graphs, connected components, Guarini puzzle, cyclic graph, apps, bipartite graphs
+- **CYCLES** : Handshake lemma, connected components, eulerian cycle, Hamiltonain cycle, overlap graph, Debruijn graph 
+
+- 
