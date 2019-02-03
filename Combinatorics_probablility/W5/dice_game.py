@@ -5,6 +5,7 @@ if we depend on the expected value EA < EB then bob will win more but that is no
 the dice of Bob we can not that he has in every trial probability to lose by 2/3 and 1/3 to win
 and in every trial is independent of the previous trials so Alice will win more
 """
+
 from random import randint, seed
 from datetime import datetime
 seed(datetime.now())
