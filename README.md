@@ -23,6 +23,8 @@ this specialization about my studying and training discrete math specialization 
 ## Introduction To Graph Theory : 
 - **What is a Graph?** : directed graphs, undirected graphs, connected components, Guarini puzzle, cyclic graph, apps, bipartite graphs
 - **CYCLES** : Handshake lemma, connected components, eulerian cycle, Hamiltonain cycle, overlap graph, Debruijn graph
-- **Graph Classes** : Tree, Bipartite Graphs, Planar Graphs, MST, kruskal's algorithm, prime's algorithm 
+- **Graph Classes** : Tree, Bipartite Graphs, Planar Graphs, MST, kruskal's algorithm, prime's algorithm
+- **Graph Parameters** : Graph coloring, Cliques and independent sets, vertex cover, ramzy numbers
+- **Flows and Matchings** : networks, flow, cuts, stable matching, Gale-shabley algorithm 
 
 - 
