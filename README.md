@@ -28,7 +28,7 @@ this specialization about my studying and training discrete math specialization 
 - **Flows and Matchings** : networks, flow, cuts, stable matching, Gale-shabley algorithm
 <br /> <br />
 ## Number theory and Cryptography
--- **Modular Arithmetic** : Divisability, remainder, binary system, modular division
--- **Euclid's Algorithm** : Euclid's algorithm, extended Euclidean algorithm, modular division, multiplicative inverse of module, Diophantine equations
+- **Modular Arithmetic** : Divisability, remainder, binary system, modular division
+- **Euclid's Algorithm** : Euclid's algorithm, extended Euclidean algorithm, modular division, multiplicative inverse of module, Diophantine equations
 
 - 
