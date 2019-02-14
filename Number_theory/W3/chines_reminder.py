@@ -82,7 +82,7 @@ def ChineseRemainderTheorem(remainders, divisors):
 	return int(n)
 
 def main():
-	print(ChineseRemainderTheorem([2, 3, 2], [3, 5, 7]))
+	print(ChineseRemainderTheorem([2, 2, 2, 2], [4, 5, 7, 11]))
 
 
 if __name__ == '__main__':
