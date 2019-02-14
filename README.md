@@ -32,3 +32,6 @@ this specialization about my studying and training discrete math specialization 
 - **Euclid's Algorithm** : Euclid's algorithm, extended Euclidean algorithm, modular division, multiplicative inverse of module, Diophantine equations
 - **Building Blocks for Cryptography** : prime factorization, chinese remainder theorem, Modular exponentiation, Fermat's Little Theorem, Euler's Theorem, Euler't Totient
 - **Cryptography** : One Time Pad, RSA cryptoSystem, RSA attacks
+<br /> <br />
+## The Delivery Problem
+- **BruteForce and Approximation** : travel sales man problem, permutations search, nearset neighbor algorithm
