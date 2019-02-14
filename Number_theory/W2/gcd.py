@@ -52,13 +52,14 @@ def gcd_tes(a, b):
   return max(a, b)
 
 def main():
-	k = 22
-	for y  in range(5, 11):
-		if (22 - 3*y) % 5 == 0 :
-			print((22 - 3*y) / 5); break;
-	while True:
-		a, b = input().split()
-		print(lcm(int(a), int(b)))
+	print(lcm(1980,1848))
+	# k = 22
+	# for y  in range(5, 11):
+	# 	if (22 - 3*y) % 5 == 0 :
+	# 		print((22 - 3*y) / 5); break;
+	# while True:
+	# 	a, b = input().split()
+	# 	print(lcm(int(a), int(b)))
 
 if __name__ == '__main__':
 	main()
