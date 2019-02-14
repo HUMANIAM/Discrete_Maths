@@ -40,10 +40,10 @@ def factors_of_n(n):
 	if n != 1 : factors.append(n)
 	return factors
 
-def Mersenne_primes(p = 100)
 
 def main():
+	print(is_prime(239))
 	create_some_primes(1000)
-	print(factors_of_n(87))
+	# print(factors_of_n(87))
 if __name__ == '__main__':
 	main()
