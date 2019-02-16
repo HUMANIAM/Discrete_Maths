@@ -35,3 +35,5 @@ this specialization about my studying and training discrete math specialization 
 <br /> <br />
 ## The Delivery Problem
 - **BruteForce and Approximation** : travel sales man problem, permutations search, nearset neighbor algorithm
+- **Exact Algorithms** : Branch and Bound algorithm, dynamic programming algorithm, linear programming
+- **Approximation Algorithms** : local search, 2-approximation(MST_based)
