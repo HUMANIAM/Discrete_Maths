@@ -34,18 +34,18 @@ def all_permutations(g):
 
     return shortest_tour
 
-def main():
-	G = nx.Graph()
-	for i in range(9) :
-		for j in range(9) :
-			if i != j :
-				G.add_edge(i, j, weight=i+j)
+# def main():
+# 	G = nx.Graph()
+# 	for i in range(9) :
+# 		for j in range(9) :
+# 			if i != j :
+# 				G.add_edge(i, j, weight=i+j)
 
 
-	start_time = time.time()
-	print(all_permutations(G))
-	end_time = time.time()
-	print(end_time - start_time)
+# 	start_time = time.time()
+# 	print(all_permutations(G))
+# 	end_time = time.time()
+# 	print(end_time - start_time)
 
-if __name__ == '__main__':
-	main()
+# if __name__ == '__main__':
+# 	main()
