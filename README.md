@@ -37,3 +37,9 @@ this specialization about my studying and training discrete math specialization 
 - **BruteForce and Approximation** : travel sales man problem, permutations search, nearset neighbor algorithm
 - **Exact Algorithms** : Branch and Bound algorithm, dynamic programming algorithm, linear programming
 - **Approximation Algorithms** : local search, 2-approximation(MST_based)
+
+## Resouces
+- [The_specialization](https://www.coursera.org/specializations/discrete-mathematics)
+- [the_algorithms_and_data_sturcture_specializaion](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Discrete_mathematics_and_its_applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050)
+- [Your_second_mind_Google](https://www.google.com/)
